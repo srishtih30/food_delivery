@@ -1,0 +1,301 @@
+Relationship_ID,Society_ID,Society_Name,Restaurant_ID,Restaurant_Name,Rank,Distance_km,Travel_Time_min,Return_Distance_km,Return_Travel_Time_min
+REL001,S001,Arihant Nano Emerald by Akus Construction and Developers,R190,Hotel The Sayyad,1,0.549,6.8,0.549,7.0
+REL002,S001,Arihant Nano Emerald by Akus Construction and Developers,R195,Pailwan Restaurant,2,0.601,7.0,0.601,7.2
+REL003,S001,Arihant Nano Emerald by Akus Construction and Developers,R185,Cafe 7,3,0.618,7.1,0.618,7.3
+REL004,S001,Arihant Nano Emerald by Akus Construction and Developers,R189,Gavathi Katta,4,0.674,7.4,0.673,7.4
+REL005,S001,Arihant Nano Emerald by Akus Construction and Developers,R191,KGF Chicken 65 Rahul Tiwade,5,0.674,7.4,0.673,7.4
+REL006,S001,Arihant Nano Emerald by Akus Construction and Developers,R187,Cafe Zatpat,6,0.694,7.4,3.172,8.3
+REL007,S001,Arihant Nano Emerald by Akus Construction and Developers,R196,RR Biryani and Family Restaurant,7,0.749,7.5,3.117,8.6
+REL008,S001,Arihant Nano Emerald by Akus Construction and Developers,R193,Mister Coffeewala,8,0.863,4.7,3.003,8.3
+REL009,S001,Arihant Nano Emerald by Akus Construction and Developers,R184,Aadarsh Nashta Center,9,0.932,7.8,2.934,8.0
+REL010,S001,Arihant Nano Emerald by Akus Construction and Developers,R197,Royal Green Restaurant,10,1.396,8.6,2.947,10.1
+REL011,S001,Arihant Nano Emerald by Akus Construction and Developers,R206,Cafe Hangout,11,1.516,8.6,2.35,7.2
+REL012,S001,Arihant Nano Emerald by Akus Construction and Developers,R209,Celebrations Family Restaurant and Bar Sangli,12,1.614,10.0,3.177,10.9
+REL013,S001,Arihant Nano Emerald by Akus Construction and Developers,R210,Crccsangli,13,1.683,8.9,2.183,7.0
+REL014,S001,Arihant Nano Emerald by Akus Construction and Developers,R013,Laxmi Nasta Centar,14,2.044,9.4,1.822,6.4
+REL015,S001,Arihant Nano Emerald by Akus Construction and Developers,R014,Sadguru Matha,15,2.07,9.4,1.796,6.4
+REL016,S002,Arihant Nano Pearl (अरिहंत नानो पर्ल),R072,Sawariya Ice Cream,1,0.211,1.9,0.176,1.2
+REL017,S002,Arihant Nano Pearl (अरिहंत नानो पर्ल),R065,Girjha Chinese,2,0.241,2.1,0.147,1.1
+REL018,S002,Arihant Nano Pearl (अरिहंत नानो पर्ल),R074,Vaishali Nasta Center,3,0.299,2.3,0.089,0.8
+REL019,S002,Arihant Nano Pearl (अरिहंत नानो पर्ल),R070,Rajendra Idly Wada Centre,4,0.299,2.2,0.353,2.9
+REL020,S002,Arihant Nano Pearl (अरिहंत नानो पर्ल),R062,Agrani Snacks Center,5,0.302,2.2,0.265,1.9
+REL021,S002,Arihant Nano Pearl (अरिहंत नानो पर्ल),R067,Hotel Real Hanuman,6,0.405,3.0,0.247,2.1
+REL022,S002,Arihant Nano Pearl (अरिहंत नानो पर्ल),R075,शिवानंद नाष्टा सेंटर,7,0.491,2.9,0.504,2.3
+REL023,S002,Arihant Nano Pearl (अरिहंत नानो पर्ल),R073,Shri Sidheshvar Dalcha Spaical,8,0.509,2.8,0.533,2.9
+REL024,S002,Arihant Nano Pearl (अरिहंत नानो पर्ल),R076,शुभम दालचा राइस,9,0.52,2.8,0.521,2.9
+REL025,S002,Arihant Nano Pearl (अरिहंत नानो पर्ल),R066,Hotel Mamata,10,0.546,2.9,0.495,2.8
+REL026,S002,Arihant Nano Pearl (अरिहंत नानो पर्ल),R068,Hotel The Dhondikaka,11,0.604,3.0,0.587,2.5
+REL027,S002,Arihant Nano Pearl (अरिहंत नानो पर्ल),R071,Royal Chinese,12,0.639,3.2,0.552,2.4
+REL028,S002,Arihant Nano Pearl (अरिहंत नानो पर्ल),R064,Bhore Biryani House,13,0.685,3.3,0.506,2.2
+REL029,S002,Arihant Nano Pearl (अरिहंत नानो पर्ल),R069,Patel Matan Shop Patel Arbiya,14,0.729,3.5,0.51,2.5
+REL030,S002,Arihant Nano Pearl (अरिहंत नानो पर्ल),R063,Amul Ice-Cream Parlour and Coffee,15,0.746,3.6,1.108,3.7
+REL031,S003,Arihant Villa Apartment,R179,Keddy's Kitchen,1,0.266,1.1,0.266,4.1
+REL032,S003,Arihant Villa Apartment,R183,श्री सिद्धनाथ सैंडविच सेंटर,2,0.303,4.2,0.303,4.2
+REL033,S003,Arihant Villa Apartment,R182,Rks Aflatun,3,0.321,4.3,0.321,4.5
+REL034,S003,Arihant Villa Apartment,R172,Aphalatun Vadapav Center,4,0.388,5.0,0.389,4.5
+REL035,S003,Arihant Villa Apartment,R203,Aaharshree Misal Plus,5,0.501,4.9,0.721,3.8
+REL036,S003,Arihant Villa Apartment,R180,New Taste OF Punjab,6,0.518,5.5,0.64,2.8
+REL037,S003,Arihant Villa Apartment,R176,Gresh Ministry Nashta Center,7,0.546,4.8,0.829,3.6
+REL038,S003,Arihant Villa Apartment,R207,Cafe Ttmm,8,0.555,5.7,0.667,3.4
+REL039,S003,Arihant Villa Apartment,R208,Cafe cc,9,0.572,5.2,0.65,3.5
+REL040,S003,Arihant Villa Apartment,R219,मद्ग्यल मटन भोजनालय,10,0.648,5.5,0.658,3.8
+REL041,S003,Arihant Villa Apartment,R213,Nashta Centre,11,0.775,6.1,0.778,3.2
+REL042,S003,Arihant Villa Apartment,R211,Divine Icecream & Snacks,12,0.891,9.3,1.148,6.6
+REL043,S003,Arihant Villa Apartment,R215,One Bite Sangli,13,0.937,6.3,1.781,4.7
+REL044,S003,Arihant Villa Apartment,R009,Hotel Karbhari,14,0.991,6.1,1.471,3.8
+REL045,S003,Arihant Villa Apartment,R178,Hotel VM Garden,15,1.0,6.2,0.999,6.4
+REL046,S004,Wanless Housing Society,R179,Keddy's Kitchen,1,0.734,7.7,0.735,7.7
+REL047,S004,Wanless Housing Society,R180,New Taste OF Punjab,2,0.987,9.0,1.108,6.4
+REL048,S004,Wanless Housing Society,R211,Divine Icecream & Snacks,3,1.359,9.8,1.617,10.2
+REL049,S004,Wanless Housing Society,R205,Basho Veggies,4,1.38,10.8,1.37,8.8
+REL050,S004,Wanless Housing Society,R215,One Bite Sangli,5,1.406,10.2,2.249,8.5
+REL051,S004,Wanless Housing Society,R214,Nutrier Diet Cafe,6,1.444,10.2,2.211,8.4
+REL052,S004,Wanless Housing Society,R015,इंडो चायना चायनीज फास्ट फूड,7,1.45,10.1,1.447,10.0
+REL053,S004,Wanless Housing Society,R010,Hotel Palvi Pure Veg Restaurants Miraj,8,1.459,10.3,2.023,9.6
+REL054,S004,Wanless Housing Society,R012,Hotel Shivneri,9,1.459,9.7,1.938,7.3
+REL055,S004,Wanless Housing Society,R009,Hotel Karbhari,10,1.46,9.7,1.604,7.2
+REL056,S004,Wanless Housing Society,R177,Hotel Pink Star,11,1.591,10.4,1.588,10.4
+REL057,S004,Wanless Housing Society,R173,Aryan Restaurant And Garden,12,1.606,10.6,1.603,10.6
+REL058,S004,Wanless Housing Society,R209,Celebrations Family Restaurant and Bar Sangli,13,1.704,11.7,2.1,9.0
+REL059,S004,Wanless Housing Society,R011,Hotel Royal Inn Kokan King,14,1.748,10.4,1.745,10.4
+REL060,S004,Wanless Housing Society,R008,Darbaar Hotel Family Restro,15,1.874,11.5,1.872,11.5
+REL061,S005,Sahyadri Housing Society,R006,Sujata Patil's Thalipith & Appe,1,0.079,0.5,0.312,2.6
+REL062,S005,Sahyadri Housing Society,R161,Soman Bhojnalay,2,0.29,1.9,0.2,4.3
+REL063,S005,Sahyadri Housing Society,R100,Swad Food Shopee,3,0.332,1.3,0.371,3.0
+REL064,S005,Sahyadri Housing Society,R004,Ramjiyavan,4,0.346,1.3,0.686,3.1
+REL065,S005,Sahyadri Housing Society,R099,Rashida Vegetables,5,0.635,2.2,0.932,3.4
+REL066,S005,Sahyadri Housing Society,R096,Misal Katta & Cornor Crunch,6,0.646,2.2,0.922,3.4
+REL067,S005,Sahyadri Housing Society,R007,Veggiego Mart,7,0.709,2.4,0.859,3.1
+REL068,S005,Sahyadri Housing Society,R088,Foodie Guy's Chinese Centre Yashwant Nagar,8,0.74,2.7,1.063,3.3
+REL069,S005,Sahyadri Housing Society,R091,Crazy Icecream,9,0.752,6.3,0.716,4.2
+REL070,S005,Sahyadri Housing Society,R159,Misalkatta,10,0.792,2.6,0.773,3.9
+REL071,S005,Sahyadri Housing Society,R160,New China Hut -2,11,0.886,3.1,0.592,3.4
+REL072,S005,Sahyadri Housing Society,R095,Ice Cream Parlou,12,1.05,3.8,1.141,3.6
+REL073,S005,Sahyadri Housing Society,R097,Mr Mrs Cloud Kitchen,13,1.202,4.4,1.079,5.2
+REL074,S005,Sahyadri Housing Society,R001,Adity's Kitchen,14,1.244,7.4,1.398,7.1
+REL075,S005,Sahyadri Housing Society,R002,Hotel Ganraj,15,1.334,3.5,1.542,4.3
+REL076,S006,Ganesh Housing Society,R133,The Cafe Heart,1,0.12,0.3,0.58,2.7
+REL077,S006,Ganesh Housing Society,R128,Patil Dairy,2,0.323,1.2,0.936,3.0
+REL078,S006,Ganesh Housing Society,R115,Burger Point,3,0.424,2.7,0.477,1.9
+REL079,S006,Ganesh Housing Society,R117,Cafe DN,4,0.529,1.6,0.539,2.0
+REL080,S006,Ganesh Housing Society,R134,Tiffin Box Sangli,5,0.549,2.0,0.711,2.1
+REL081,S006,Ganesh Housing Society,R116,Cafe Crush,6,0.596,2.2,0.663,2.0
+REL082,S006,Ganesh Housing Society,R132,Star Texas Bhel,7,0.699,2.8,0.439,1.9
+REL083,S006,Ganesh Housing Society,R119,Chinese Hot Corner,8,0.7,2.7,0.608,2.2
+REL084,S006,Ganesh Housing Society,R130,Shri Datt Sandwich And Dabali Center,9,0.729,2.5,0.53,1.6
+REL085,S006,Ganesh Housing Society,R114,Anna's Dosa Point,10,0.748,2.6,0.511,1.6
+REL086,S006,Ganesh Housing Society,R126,La Mazali,11,0.759,2.6,0.5,1.6
+REL087,S006,Ganesh Housing Society,R121,Happy Momo's & More,12,0.771,2.7,0.488,1.5
+REL088,S006,Ganesh Housing Society,R118,Caffe Food in,13,0.781,2.7,0.561,2.0
+REL089,S006,Ganesh Housing Society,R131,Star Icecream Centre,14,0.784,2.7,0.559,2.0
+REL090,S006,Ganesh Housing Society,R120,Doodluck Egg Fast Food Center,15,0.797,2.7,0.546,2.0
+REL091,S007,Ahilyadevi Housing Society,R092,Foodland Chaines & Fast Food,1,0.275,1.2,0.678,3.6
+REL092,S007,Ahilyadevi Housing Society,R101,Waghmare's,2,0.302,1.2,1.626,4.7
+REL093,S007,Ahilyadevi Housing Society,R018,Letest Kulfi Store,3,0.338,1.5,0.614,3.3
+REL094,S007,Ahilyadevi Housing Society,R090,Bharkadevi Ice-Cream Parlour,4,0.743,4.5,0.608,5.9
+REL095,S007,Ahilyadevi Housing Society,R019,Nagne's Bhel and Chaat,5,0.824,3.0,0.696,2.8
+REL096,S007,Ahilyadevi Housing Society,R020,Pash Sangli,6,0.974,5.2,0.601,2.6
+REL097,S007,Ahilyadevi Housing Society,R243,Shri Ganesh Dabali & Dosa Center,7,1.019,3.4,1.037,4.3
+REL098,S007,Ahilyadevi Housing Society,R093,Garib Nawaz Nashta Center,8,1.034,4.8,1.163,4.8
+REL099,S007,Ahilyadevi Housing Society,R098,Panchu Nishad,9,1.041,4.8,0.945,3.4
+REL100,S007,Ahilyadevi Housing Society,R023,Suresh Nashta Centre,10,1.046,7.3,1.039,8.3
+REL101,S007,Ahilyadevi Housing Society,R246,हॉटेल हरिप्रिया,11,1.119,5.0,1.068,4.4
+REL102,S007,Ahilyadevi Housing Society,R016,Hotel Gazal,12,1.258,5.3,1.875,5.4
+REL103,S007,Ahilyadevi Housing Society,R091,Crazy Icecream,13,1.436,8.9,1.226,8.5
+REL104,S007,Ahilyadevi Housing Society,R022,Raj Chicken Center,14,1.437,6.1,1.033,5.7
+REL105,S007,Ahilyadevi Housing Society,R025,न्यू सम्राट चिकन सेंटर,15,2.84,10.5,2.618,11.2
+REL106,S008,MSEB Housing Society,R030,Hotel Parakh Inn,1,0.217,3.1,0.236,1.8
+REL107,S008,MSEB Housing Society,R033,Little Bites Icecreame & Snacks Sangli,2,0.224,1.0,0.216,2.1
+REL108,S008,MSEB Housing Society,R036,Sai Bakery & Coldrings,3,0.23,1.1,0.268,1.2
+REL109,S008,MSEB Housing Society,R038,The Steaming Cup,4,0.261,1.1,0.463,1.9
+REL110,S008,MSEB Housing Society,R029,Hotel Madhuban (Pure Veg),5,0.265,1.1,0.233,1.1
+REL111,S008,MSEB Housing Society,R031,Jay Vadapav Center Poli Bhaji Kendra,6,0.333,1.5,0.701,2.4
+REL112,S008,MSEB Housing Society,R028,Hotel Hemraj Garden,7,0.367,1.6,0.845,4.8
+REL113,S008,MSEB Housing Society,R037,Swami Vade Wale,8,0.396,1.5,0.502,1.9
+REL114,S008,MSEB Housing Society,R034,Madhava's Family Restaurants,9,0.399,1.5,0.499,1.9
+REL115,S008,MSEB Housing Society,R039,The Sun 7 Cafe,10,0.418,1.6,0.656,2.6
+REL116,S008,MSEB Housing Society,R027,Flag Fast Food,11,0.436,1.6,0.461,1.8
+REL117,S008,MSEB Housing Society,R040,अर्बन किचन POLI भाजी केंद्र,12,0.549,2.4,0.767,3.0
+REL118,S008,MSEB Housing Society,R035,Pravin Ice-Cream,13,0.561,2.2,0.416,3.4
+REL119,S008,MSEB Housing Society,R032,Kake di Hatti Sangli,14,1.167,4.0,1.179,3.9
+REL120,S008,MSEB Housing Society,R026,Dalchini,15,1.281,3.9,1.322,4.2
+REL121,S009,Shivaji Housing Society,R078,Chaat Puchka,1,0.084,0.4,0.206,1.1
+REL122,S009,Shivaji Housing Society,R080,Hotel Tuljai,2,0.235,0.6,0.958,2.6
+REL123,S009,Shivaji Housing Society,R157,Shri Ganesh Bhel And Snack Point,3,0.33,2.4,0.329,4.9
+REL124,S009,Shivaji Housing Society,R085,मौली नाश्ता केंद्र,4,0.444,1.2,0.684,2.7
+REL125,S009,Shivaji Housing Society,R082,Lite Bite The Coffee House,5,0.462,2.2,0.881,2.4
+REL126,S009,Shivaji Housing Society,R077,Baskin-Robbins,6,0.462,2.2,0.881,2.4
+REL127,S009,Shivaji Housing Society,R083,Saileella Cetin,7,0.529,2.6,0.626,2.6
+REL128,S009,Shivaji Housing Society,R084,Sangita Motton & Chicken Center,8,0.54,2.3,0.803,2.3
+REL129,S009,Shivaji Housing Society,R225,Crazy Ice-Cream,9,0.593,1.5,1.106,3.0
+REL130,S009,Shivaji Housing Society,R227,Kolhapuri Chulmatan.चुलमटण,10,0.598,2.4,0.745,2.2
+REL131,S009,Shivaji Housing Society,R229,राज चिकन सेंटर,11,0.713,2.6,1.369,3.1
+REL132,S009,Shivaji Housing Society,R086,होटल न्यू किनारा,12,0.751,2.8,0.592,1.8
+REL133,S009,Shivaji Housing Society,R155,Hotel Parnkuti,13,0.788,3.2,0.788,6.3
+REL134,S009,Shivaji Housing Society,R228,Raj Chicken 65,14,0.821,2.8,1.261,3.0
+REL135,S009,Shivaji Housing Society,R156,Pk S Food On Wheels,15,0.954,4.7,1.216,6.0
+REL136,S010,KNP Housing Society,R203,Aaharshree Misal Plus,1,0.279,1.0,0.377,2.3
+REL137,S010,KNP Housing Society,R179,Keddy's Kitchen,2,0.409,1.5,0.409,4.5
+REL138,S010,KNP Housing Society,R207,Cafe Ttmm,3,0.413,2.0,0.211,1.2
+REL139,S010,KNP Housing Society,R211,Divine Icecream & Snacks,4,0.443,4.3,0.701,4.7
+REL140,S010,KNP Housing Society,R208,Cafe cc,5,0.509,3.1,0.35,1.4
+REL141,S010,KNP Housing Society,R219,मद्ग्यल मटन भोजनालय,6,0.634,3.9,0.436,2.9
+REL142,S010,KNP Housing Society,R202,24K Kraft Brewzz,7,0.65,3.6,0.465,1.7
+REL143,S010,KNP Housing Society,R216,Russian Crispy Fried Chicken,8,0.655,3.6,0.461,1.6
+REL144,S010,KNP Housing Society,R217,Solos,9,0.662,3.7,0.453,1.6
+REL145,S010,KNP Housing Society,R204,Aman Chicken 65,10,0.673,3.8,0.808,3.8
+REL146,S010,KNP Housing Society,R218,Venkys Chicken,11,0.721,4.1,0.66,4.2
+REL147,S010,KNP Housing Society,R212,Domino's,12,0.728,4.1,0.653,4.2
+REL148,S010,KNP Housing Society,R213,Nashta Centre,13,0.762,4.5,0.556,2.3
+REL149,S010,KNP Housing Society,R215,One Bite Sangli,14,0.935,4.5,1.559,3.6
+REL150,S010,KNP Housing Society,R214,Nutrier Diet Cafe,15,0.973,4.5,1.521,3.6
+REL151,S011,Mira Housing Society,R025,न्यू सम्राट चिकन सेंटर,1,0.205,1.7,0.204,4.2
+REL152,S011,Mira Housing Society,R170,Umiya Nasta Center,2,0.419,1.4,0.4,1.4
+REL153,S011,Mira Housing Society,R166,Shivraj Dhaba,3,0.442,1.9,0.47,2.0
+REL154,S011,Mira Housing Society,R169,Twilight Restaurant Pure Veg,4,0.521,2.1,0.39,1.7
+REL155,S011,Mira Housing Society,R163,Hotel Bambu House,5,0.558,2.4,0.489,2.1
+REL156,S011,Mira Housing Society,R017,Hotel The Peacock Family Resto Bar,6,0.566,2.4,0.36,1.4
+REL157,S011,Mira Housing Society,R079,Hotel Darbar,7,0.59,1.8,0.686,2.5
+REL158,S011,Mira Housing Society,R165,Purple Wok's Sangli,8,0.647,2.4,0.988,2.8
+REL159,S011,Mira Housing Society,R024,Yash Chinese,9,0.705,2.6,0.61,2.3
+REL160,S011,Mira Housing Society,R168,The Dinky's,10,0.716,2.7,1.217,3.9
+REL161,S011,Mira Housing Society,R081,Hotel Zanzanit,11,0.717,2.6,1.217,3.9
+REL162,S011,Mira Housing Society,R021,Patil Wada,12,0.752,2.7,0.673,2.5
+REL163,S011,Mira Housing Society,R164,Hotel Shiv Samrat,13,0.845,2.9,0.855,2.6
+REL164,S011,Mira Housing Society,R162,Hotel Adihaah Restrocafe,14,1.155,4.3,0.87,3.6
+REL165,S011,Mira Housing Society,R167,Shree Datta Lunch Home & Restaurant,15,1.25,4.4,1.32,5.8
+REL166,S012,Mahesh Housing Society Vips,R222,Sadanand,1,0.357,1.0,0.552,2.1
+REL167,S012,Mahesh Housing Society Vips,R140,Caffe Deccan,2,0.357,1.0,0.552,2.1
+REL168,S012,Mahesh Housing Society Vips,R137,Al-Baith,3,0.357,1.0,0.552,2.1
+REL169,S012,Mahesh Housing Society Vips,R145,Kakedihattisangli,4,0.357,1.0,0.551,2.1
+REL170,S012,Mahesh Housing Society Vips,R135,Ajwaa Restaurant,5,0.358,1.0,0.551,2.1
+REL171,S012,Mahesh Housing Society Vips,R220,Prasad Bat's,6,0.469,1.5,0.135,0.4
+REL172,S012,Mahesh Housing Society Vips,R221,Rajeshahi Restaurant Pure Veg,7,0.469,1.5,0.135,0.4
+REL173,S012,Mahesh Housing Society Vips,R152,The Dhaba Caf,8,0.487,1.6,0.118,0.4
+REL174,S012,Mahesh Housing Society Vips,R150,Sugaran Poli Bhaji Kendra,9,0.493,1.6,0.111,0.3
+REL175,S012,Mahesh Housing Society Vips,R224,Ufo Fries & Corn,10,0.502,1.6,0.102,0.3
+REL176,S012,Mahesh Housing Society Vips,R143,Hotel Devgiri,11,0.614,1.9,0.307,0.9
+REL177,S012,Mahesh Housing Society Vips,R149,Shree Sai Dabeli Center,12,0.682,2.1,0.121,0.3
+REL178,S012,Mahesh Housing Society Vips,R147,Pailwani Thandai,13,0.682,2.1,0.121,0.3
+REL179,S012,Mahesh Housing Society Vips,R153,The Kapital Kitchen Sangli,14,0.794,2.5,0.439,1.7
+REL180,S012,Mahesh Housing Society Vips,R223,The Cafe Villa,15,1.443,3.4,0.179,0.4
+REL181,S013,Bhagyodaya Housing Society Chaitanyanagar Sangli,R159,Misalkatta,1,0.055,0.3,0.167,1.7
+REL182,S013,Bhagyodaya Housing Society Chaitanyanagar Sangli,R160,New China Hut -2,2,0.37,2.8,0.496,2.7
+REL183,S013,Bhagyodaya Housing Society Chaitanyanagar Sangli,R088,Foodie Guy's Chinese Centre Yashwant Nagar,3,0.543,3.0,0.728,3.1
+REL184,S013,Bhagyodaya Housing Society Chaitanyanagar Sangli,R004,Ramjiyavan,4,0.746,3.7,0.651,2.3
+REL185,S013,Bhagyodaya Housing Society Chaitanyanagar Sangli,R161,Soman Bhojnalay,5,0.772,4.5,0.589,5.1
+REL186,S013,Bhagyodaya Housing Society Chaitanyanagar Sangli,R002,Hotel Ganraj,6,0.858,3.3,1.217,2.9
+REL187,S013,Bhagyodaya Housing Society Chaitanyanagar Sangli,R226,Udupi Restaurant,7,0.874,3.0,1.914,3.8
+REL188,S013,Bhagyodaya Housing Society Chaitanyanagar Sangli,R006,Sujata Patil's Thalipith & Appe,8,0.903,4.5,0.756,2.5
+REL189,S013,Bhagyodaya Housing Society Chaitanyanagar Sangli,R100,Swad Food Shopee,9,0.924,4.2,1.295,4.4
+REL190,S013,Bhagyodaya Housing Society Chaitanyanagar Sangli,R248,Onest SKY Rooftop Bar & Restaurant,10,0.98,3.8,1.048,2.5
+REL191,S013,Bhagyodaya Housing Society Chaitanyanagar Sangli,R001,Adity's Kitchen,11,1.102,7.9,1.072,5.7
+REL192,S013,Bhagyodaya Housing Society Chaitanyanagar Sangli,R095,Ice Cream Parlou,12,1.368,4.5,1.548,4.3
+REL193,S013,Bhagyodaya Housing Society Chaitanyanagar Sangli,R091,Crazy Icecream,13,1.622,8.5,1.074,6.3
+REL194,S013,Bhagyodaya Housing Society Chaitanyanagar Sangli,R092,Foodland Chaines & Fast Food,14,2.041,5.3,1.199,2.8
+REL195,S013,Bhagyodaya Housing Society Chaitanyanagar Sangli,R101,Waghmare's,15,2.062,5.3,1.171,2.8
+REL196,S014,Chaitanya Sagar Cooperative Housing Society,R057,Fatc,1,0.263,0.8,0.204,1.0
+REL197,S014,Chaitanya Sagar Cooperative Housing Society,R061,इडली वादा सेंटर,2,0.481,1.7,0.413,1.4
+REL198,S014,Chaitanya Sagar Cooperative Housing Society,R053,Gagangiri Stoll,3,0.503,1.7,0.392,1.4
+REL199,S014,Chaitanya Sagar Cooperative Housing Society,R060,Yj Restaurant & Icecream Parlor,4,0.55,1.9,0.239,1.1
+REL200,S014,Chaitanya Sagar Cooperative Housing Society,R055,Shalom Spring Potyato,5,0.591,2.1,0.198,0.9
+REL201,S014,Chaitanya Sagar Cooperative Housing Society,R112,हॉटेल शेतकरी वाडा,6,0.615,1.9,0.319,1.4
+REL202,S014,Chaitanya Sagar Cooperative Housing Society,R105,Happy Days Cakes N More,7,0.616,1.9,0.317,1.3
+REL203,S014,Chaitanya Sagar Cooperative Housing Society,R109,द फ्रोजन स्पून,8,0.623,1.8,0.138,0.3
+REL204,S014,Chaitanya Sagar Cooperative Housing Society,R056,Davangiri Loni Dosa,9,0.628,2.0,1.029,2.6
+REL205,S014,Chaitanya Sagar Cooperative Housing Society,R059,Paav Bhaji Chinese Dabeli,10,0.631,2.0,1.026,2.6
+REL206,S014,Chaitanya Sagar Cooperative Housing Society,R110,मोर्य नास्ता सेंटर,11,0.648,1.9,0.113,0.2
+REL207,S014,Chaitanya Sagar Cooperative Housing Society,R058,Mauli Bhojanalay,12,0.66,2.1,0.997,2.6
+REL208,S014,Chaitanya Sagar Cooperative Housing Society,R111,मौली एग्ग जंक्शन पावर संतोष,13,0.665,2.0,0.269,1.2
+REL209,S014,Chaitanya Sagar Cooperative Housing Society,R107,होटल आस्वाद वेज और नॉन-वेज,14,0.737,2.5,0.512,2.4
+REL210,S014,Chaitanya Sagar Cooperative Housing Society,R108,Lazeez Biryani,15,0.759,5.0,0.225,4.5
+REL211,S015,Anandvan Housing Society Miraj,R113,Aditi Nashta Center,1,0.134,4.2,0.589,1.6
+REL212,S015,Anandvan Housing Society Miraj,R125,Hotel Sukhsagar,2,0.171,4.2,0.553,1.6
+REL213,S015,Anandvan Housing Society Miraj,R123,Hotel Natraj,3,0.191,4.2,0.533,1.5
+REL214,S015,Anandvan Housing Society Miraj,R122,Hotel Ayodhya,4,0.226,4.3,0.497,1.4
+REL215,S015,Anandvan Housing Society Miraj,R199,Sai Aashirwad Snack Center,5,0.268,4.4,1.81,3.6
+REL216,S015,Anandvan Housing Society Miraj,R200,Shivrajya Restaurant,6,0.326,4.5,1.752,3.5
+REL217,S015,Anandvan Housing Society Miraj,R194,New Sangam Restaurant,7,0.357,4.7,0.366,1.3
+REL218,S015,Anandvan Housing Society Miraj,R192,Mirchi Food Mall,8,0.391,4.7,0.333,1.2
+REL219,S015,Anandvan Housing Society Miraj,R188,Domino's,9,0.415,4.7,0.308,1.1
+REL220,S015,Anandvan Housing Society Miraj,R127,Munch & Crunch,10,0.433,6.1,0.624,4.3
+REL221,S015,Anandvan Housing Society Miraj,R201,Shree Lakshmi Nastha Center,11,0.445,4.9,0.278,1.1
+REL222,S015,Anandvan Housing Society Miraj,R186,Cafe Sunrise,12,0.468,4.9,0.256,1.1
+REL223,S015,Anandvan Housing Society Miraj,R198,Royal King Chicken Dum,13,0.597,1.9,0.127,0.8
+REL224,S015,Anandvan Housing Society Miraj,R129,Ritesh Sweets Stall,14,0.726,6.6,0.175,0.9
+REL225,S015,Anandvan Housing Society Miraj,R124,Hotel Shri Mahalakshmi,15,0.915,6.2,1.344,3.3
+REL226,S016,Vastu Puram Cooperative Housing Society,R154,Winterfall Italian Finest,1,0.289,1.6,0.46,1.6
+REL227,S016,Vastu Puram Cooperative Housing Society,R139,Cafechococraze,2,0.305,4.7,0.451,1.9
+REL228,S016,Vastu Puram Cooperative Housing Society,R144,JAY Hanuman Nashta and Snacks Centre,3,0.323,4.7,0.433,1.9
+REL229,S016,Vastu Puram Cooperative Housing Society,R138,Biryani Adda,4,0.345,4.7,0.411,1.9
+REL230,S016,Vastu Puram Cooperative Housing Society,R102,Apple Net Cafe & Game Zone,5,0.349,4.8,0.586,1.8
+REL231,S016,Vastu Puram Cooperative Housing Society,R032,Kake di Hatti Sangli,6,0.356,4.4,0.613,2.1
+REL232,S016,Vastu Puram Cooperative Housing Society,R148,Rj's Bistro,7,0.367,4.8,0.389,1.8
+REL233,S016,Vastu Puram Cooperative Housing Society,R142,Food Planet,8,0.376,4.8,0.38,1.8
+REL234,S016,Vastu Puram Cooperative Housing Society,R106,The Royal Louis Cabana,9,0.386,4.8,0.37,1.8
+REL235,S016,Vastu Puram Cooperative Housing Society,R151,Thaliwala By Harman Sangli,10,0.388,4.8,0.368,1.8
+REL236,S016,Vastu Puram Cooperative Housing Society,R103,Arihant Restaurant and Cafe,11,0.395,4.8,0.361,1.7
+REL237,S016,Vastu Puram Cooperative Housing Society,R104,Brain Freeze Ice Cream,12,0.422,5.0,0.422,4.6
+REL238,S016,Vastu Puram Cooperative Housing Society,R141,Delicious Restaurant,13,0.449,5.8,0.449,4.7
+REL239,S016,Vastu Puram Cooperative Housing Society,R146,Kareem's Sangli,14,0.624,5.6,0.468,1.8
+REL240,S016,Vastu Puram Cooperative Housing Society,R136,Al Zaaffran Restaurant,15,0.633,5.7,0.459,1.8
+REL241,S017,Vridavan Co-operative Housing Society,R239,Manaliscake,1,0.329,3.0,0.391,5.2
+REL242,S017,Vridavan Co-operative Housing Society,R245,मानव बियर बार आणि परमिट रूम,2,0.38,1.7,0.381,4.9
+REL243,S017,Vridavan Co-operative Housing Society,R016,Hotel Gazal,3,0.542,4.2,0.679,2.1
+REL244,S017,Vridavan Co-operative Housing Society,R240,New Bismillah Hotel,4,0.575,3.9,0.842,2.5
+REL245,S017,Vridavan Co-operative Housing Society,R246,हॉटेल हरिप्रिया,5,0.614,3.9,0.94,3.6
+REL246,S017,Vridavan Co-operative Housing Society,R022,Raj Chicken Center,6,0.635,4.5,1.06,4.3
+REL247,S017,Vridavan Co-operative Housing Society,R243,Shri Ganesh Dabali & Dosa Center,7,0.646,4.0,0.908,3.6
+REL248,S017,Vridavan Co-operative Housing Society,R093,Garib Nawaz Nashta Center,8,0.684,4.1,1.081,3.7
+REL249,S017,Vridavan Co-operative Housing Society,R094,Hotel Annapurna,9,0.688,4.1,0.437,1.6
+REL250,S017,Vridavan Co-operative Housing Society,R098,Panchu Nishad,10,0.691,4.1,0.435,1.6
+REL251,S017,Vridavan Co-operative Housing Society,R236,Ajwaa Room,11,0.976,6.0,0.568,6.5
+REL252,S017,Vridavan Co-operative Housing Society,R237,Grill N Chill,12,1.231,5.8,0.797,4.5
+REL253,S017,Vridavan Co-operative Housing Society,R234,Hotel Sai Darshan,13,1.635,7.8,2.034,6.7
+REL254,S017,Vridavan Co-operative Housing Society,R233,Fast Food Unit,14,1.638,7.5,1.625,4.7
+REL255,S017,Vridavan Co-operative Housing Society,R235,The Kapital Kitchen,15,1.825,7.3,1.666,6.1
+REL256,S018,Vasantnagar Housing Society,R087,24K Kraft Brewzz Vijay Nagar Sangli,1,0.623,5.4,0.482,4.2
+REL257,S018,Vasantnagar Housing Society,R006,Sujata Patil's Thalipith & Appe,2,0.756,3.9,0.692,3.9
+REL258,S018,Vasantnagar Housing Society,R003,Hotel Rujuta,3,0.825,5.3,0.763,5.8
+REL259,S018,Vasantnagar Housing Society,R161,Soman Bhojnalay,4,0.84,4.5,0.581,5.6
+REL260,S018,Vasantnagar Housing Society,R088,Foodie Guy's Chinese Centre Yashwant Nagar,5,0.869,3.4,0.598,1.7
+REL261,S018,Vasantnagar Housing Society,R004,Ramjiyavan,6,0.895,4.0,0.653,3.0
+REL262,S018,Vasantnagar Housing Society,R100,Swad Food Shopee,7,0.972,4.1,0.964,4.0
+REL263,S018,Vasantnagar Housing Society,R001,Adity's Kitchen,8,1.169,6.3,1.322,5.8
+REL264,S018,Vasantnagar Housing Society,R160,New China Hut -2,9,1.189,4.8,0.938,4.6
+REL265,S018,Vasantnagar Housing Society,R159,Misalkatta,10,1.25,4.8,1.063,3.8
+REL266,S018,Vasantnagar Housing Society,R005,Rasodu,11,1.288,7.1,1.456,5.2
+REL267,S018,Vasantnagar Housing Society,R002,Hotel Ganraj,12,1.464,4.2,1.466,3.0
+REL268,S018,Vasantnagar Housing Society,R247,Mauli Ice Cream And Snacks,13,1.575,5.1,1.634,4.2
+REL269,S018,Vasantnagar Housing Society,R095,Ice Cream Parlou,14,1.599,6.3,1.959,4.3
+REL270,S018,Vasantnagar Housing Society,R089,Mr Kamlesh Shree Sai Chainese,15,1.603,5.2,1.606,4.1
+REL271,S019,Swayambhu Apartment,R041,Niyaz Khanawal,1,0.181,6.8,0.704,4.2
+REL272,S019,Swayambhu Apartment,R047,Shiv Bhojnalaya,2,0.236,7.0,0.81,4.4
+REL273,S019,Swayambhu Apartment,R046,Kitchensbazaar.Com,3,0.258,4.0,0.787,4.4
+REL274,S019,Swayambhu Apartment,R042,Shiv Prasad,4,0.337,7.1,0.548,3.9
+REL275,S019,Swayambhu Apartment,R230,Chennai Chinese,5,0.337,7.1,0.548,3.9
+REL276,S019,Swayambhu Apartment,R054,Hmg Fastfood Centre,6,0.437,8.1,0.438,7.7
+REL277,S019,Swayambhu Apartment,R052,हॉटेल साई मोहन,7,0.526,7.6,0.824,4.4
+REL278,S019,Swayambhu Apartment,R049,Shree Sai Dabeli And Snacks Center,8,0.609,7.8,0.794,4.6
+REL279,S019,Swayambhu Apartment,R048,Shivshankar Icecream Parlour,9,0.627,8.1,0.777,4.7
+REL280,S019,Swayambhu Apartment,R045,Hotel Veg Villa,10,0.683,8.0,0.667,4.0
+REL281,S019,Swayambhu Apartment,R158,Aapla Dhaba,11,0.722,8.5,0.722,7.3
+REL282,S019,Swayambhu Apartment,R050,Shri Swami Samarth Idli Vada,12,0.789,8.4,1.134,5.0
+REL283,S019,Swayambhu Apartment,R043,Uday Bhojanalay,13,0.824,8.6,0.824,7.5
+REL284,S019,Swayambhu Apartment,R044,Hotel Heera,14,0.829,8.3,1.001,5.1
+REL285,S019,Swayambhu Apartment,R051,हॉटेल वैष्णवी,15,0.906,8.6,0.923,5.0
+REL286,S020,Shivbala Dadge Sankul Cooperative Housing Society Ltd,R237,Grill N Chill,1,0.103,0.2,0.322,2.0
+REL287,S020,Shivbala Dadge Sankul Cooperative Housing Society Ltd,R231,Coffee Canvas,2,0.427,1.7,0.541,2.1
+REL288,S020,Shivbala Dadge Sankul Cooperative Housing Society Ltd,R244,Yash Fast Food Point,3,0.445,0.8,0.914,3.1
+REL289,S020,Shivbala Dadge Sankul Cooperative Housing Society Ltd,R236,Ajwaa Room,4,0.472,2.7,0.261,5.2
+REL290,S020,Shivbala Dadge Sankul Cooperative Housing Society Ltd,R242,Royal Pizza,5,0.589,1.1,0.77,2.7
+REL291,S020,Shivbala Dadge Sankul Cooperative Housing Society Ltd,R238,Hotel New Ratna Deluxe Restaurant & Bar,6,0.732,2.8,1.003,3.2
+REL292,S020,Shivbala Dadge Sankul Cooperative Housing Society Ltd,R232,Domino's,7,0.792,2.0,1.434,3.1
+REL293,S020,Shivbala Dadge Sankul Cooperative Housing Society Ltd,R175,Ganesh Misal,8,0.919,2.7,0.682,1.4
+REL294,S020,Shivbala Dadge Sankul Cooperative Housing Society Ltd,R181,Picadilly Restaurant,9,0.986,2.6,0.637,2.0
+REL295,S020,Shivbala Dadge Sankul Cooperative Housing Society Ltd,R174,Chowmow Momos Sangli,10,1.029,2.7,0.957,3.2
+REL296,S020,Shivbala Dadge Sankul Cooperative Housing Society Ltd,R235,The Kapital Kitchen,11,1.07,3.9,0.944,3.1
+REL297,S020,Shivbala Dadge Sankul Cooperative Housing Society Ltd,R171,7 Themes Cafe,12,1.1,2.9,1.906,3.8
+REL298,S020,Shivbala Dadge Sankul Cooperative Housing Society Ltd,R241,One Bite NH4 Kedarwadi,13,1.276,2.5,1.613,3.3
+REL299,S020,Shivbala Dadge Sankul Cooperative Housing Society Ltd,R222,Sadanand,14,1.962,5.8,1.711,4.3
+REL300,S020,Shivbala Dadge Sankul Cooperative Housing Society Ltd,R234,Hotel Sai Darshan,15,2.444,6.5,2.211,6.0

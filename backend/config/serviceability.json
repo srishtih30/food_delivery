@@ -1,0 +1,13 @@
+{
+  "_comment": "SYNTHETIC policy for the simulation. These are assumptions for this project, not real commercial service boundaries of any delivery platform.",
+  "zones": ["Sangli", "Miraj", "Kupwad"],
+  "zone_overrides": {},
+  "allow_same_zone": true,
+  "allowed_zone_pairs": [["Kupwad", "Sangli"], ["Sangli", "Kupwad"]],
+  "allowed_pairs": [],
+  "denied_pairs": [],
+  "disabled_restaurants": [],
+  "max_distance_km": 8.0,
+  "max_time_min": 30.0,
+  "route_metric": "time"
+}

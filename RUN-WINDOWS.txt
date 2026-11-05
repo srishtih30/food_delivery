@@ -1,0 +1,25 @@
+RUN ON WINDOWS
+
+1. Extract the entire ZIP (do not run start.bat inside the ZIP).
+2. Install Python 3.10+ and Node.js 22.12+ if they are not installed.
+   Enable Add Python to PATH during Python setup.
+3. Double-click start.bat. The first run needs internet for dependencies.
+4. Wait for setup/build to finish. Fleet Lab opens automatically.
+5. Keep the launcher window open. Press Ctrl+C to stop the server.
+
+The launcher creates backend/.venv, installs dependencies, builds the
+latest frontend, and serves the app and API together on one local port.
+If port 8060 is occupied, it chooses a free port and prints/opens that URL.
+Re-run start.bat after editing the app to rebuild your changes.
+
+MANUAL COMMANDS (Command Prompt, from the extracted app folder)
+
+python -m venv backend\.venv
+backend\.venv\Scripts\python.exe -m pip install -r backend\requirements.txt
+cd frontend
+npm ci
+npm run build
+cd ..
+backend\.venv\Scripts\python.exe launch.py
+
+If you see an error, the launcher leaves the message visible.
